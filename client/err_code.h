@@ -1,0 +1,15 @@
+#pragma once
+
+#ifndef ERRORCODE
+#define ERRORCODE
+
+enum ERR_CODE {
+    SYSTEM_ERROR = -1,
+    SUCCESS = 0,
+    INVALID_MESSAGE,
+    INVALID_USERNAME,
+    INVALID_PASSWORD,
+    NULL_ARGUMENT
+};
+
+#endif //ERRORCODE

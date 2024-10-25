@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hargu\\OneDrive\\Desktop\\Networking\\ChatRoom\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{586D1B6E-0EBC-717A-FBE0-1A649EEC302A}|server.vcxproj|C:\\Users\\hargu\\OneDrive\\Desktop\\Networking\\ChatRoom\\server\\server.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{586D1B6E-0EBC-717A-FBE0-1A649EEC302A}|server.vcxproj|solutionrelative:server.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586D1B6E-0EBC-717A-FBE0-1A649EEC302A}|server.vcxproj|C:\\Users\\hargu\\OneDrive\\Desktop\\Networking\\ChatRoom\\server\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{586D1B6E-0EBC-717A-FBE0-1A649EEC302A}|server.vcxproj|solutionrelative:server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586D1B6E-0EBC-717A-FBE0-1A649EEC302A}|server.vcxproj|C:\\Users\\hargu\\OneDrive\\Desktop\\Networking\\ChatRoom\\server\\usersManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{586D1B6E-0EBC-717A-FBE0-1A649EEC302A}|server.vcxproj|solutionrelative:usersManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586D1B6E-0EBC-717A-FBE0-1A649EEC302A}|server.vcxproj|C:\\Users\\hargu\\OneDrive\\Desktop\\Networking\\ChatRoom\\server\\err_code.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{586D1B6E-0EBC-717A-FBE0-1A649EEC302A}|server.vcxproj|solutionrelative:err_code.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{586D1B6E-0EBC-717A-FBE0-1A649EEC302A}|server.vcxproj|C:\\Users\\hargu\\OneDrive\\Desktop\\Networking\\ChatRoom\\server\\usersManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{586D1B6E-0EBC-717A-FBE0-1A649EEC302A}|server.vcxproj|solutionrelative:usersManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "server.h",
+              "DocumentMoniker": "C:\\Users\\hargu\\OneDrive\\Desktop\\Networking\\ChatRoom\\server\\server.h",
+              "RelativeDocumentMoniker": "server.h",
+              "ToolTip": "C:\\Users\\hargu\\OneDrive\\Desktop\\Networking\\ChatRoom\\server\\server.h",
+              "RelativeToolTip": "server.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-24T20:03:39.368Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "usersManager.h",
+              "DocumentMoniker": "C:\\Users\\hargu\\OneDrive\\Desktop\\Networking\\ChatRoom\\server\\usersManager.h",
+              "RelativeDocumentMoniker": "usersManager.h",
+              "ToolTip": "C:\\Users\\hargu\\OneDrive\\Desktop\\Networking\\ChatRoom\\server\\usersManager.h",
+              "RelativeToolTip": "usersManager.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-15T17:02:00.548Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "err_code.h",
+              "DocumentMoniker": "C:\\Users\\hargu\\OneDrive\\Desktop\\Networking\\ChatRoom\\server\\err_code.h",
+              "RelativeDocumentMoniker": "err_code.h",
+              "ToolTip": "C:\\Users\\hargu\\OneDrive\\Desktop\\Networking\\ChatRoom\\server\\err_code.h",
+              "RelativeToolTip": "err_code.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-17T18:05:05.809Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "server.cpp",
+              "DocumentMoniker": "C:\\Users\\hargu\\OneDrive\\Desktop\\Networking\\ChatRoom\\server\\server.cpp",
+              "RelativeDocumentMoniker": "server.cpp",
+              "ToolTip": "C:\\Users\\hargu\\OneDrive\\Desktop\\Networking\\ChatRoom\\server\\server.cpp",
+              "RelativeToolTip": "server.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T01:29:52.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "usersManager.cpp",
+              "DocumentMoniker": "C:\\Users\\hargu\\OneDrive\\Desktop\\Networking\\ChatRoom\\server\\usersManager.cpp",
+              "RelativeDocumentMoniker": "usersManager.cpp",
+              "ToolTip": "C:\\Users\\hargu\\OneDrive\\Desktop\\Networking\\ChatRoom\\server\\usersManager.cpp",
+              "RelativeToolTip": "usersManager.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-24T20:56:09.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
